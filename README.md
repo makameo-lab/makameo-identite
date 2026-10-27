@@ -1,12 +1,12 @@
 <p align="center"><img src="images/logo-makameo.png" alt="Le logo MAKAMEO, vert clair creusé, avec son reflet néon et sa barre" width="640"></p>
 
-# Makameo — l'identité visuelle, version 1.0.0
+# Makameo — l'identité visuelle, version 1.0.1
 
 Makameo, c'est le nom qui rassemble les applis que je crée moi-même : **MakaCook** (des recettes sûres, que tu ajustes à toi), **MakaEats** (la cuisine maison, à récupérer près de chez toi), **Tayko** (un assistant qui calcule et qui répond), et les suivantes.
 
 Ce dépôt montre leur identité visuelle commune : **ce qui a été décidé, et pourquoi**. Pas seulement le résultat, aussi le chemin.
 
-Version **1.0.0**, sortie le 27/10/2026, validée point par point. Elle ne bouge pas pendant six mois ; seul un vrai défaut (illisible, contraste, droit d'une police) se répare avant.
+Version **1.0.1** : la 1.0.0 est sortie le 27/10/2026, validée point par point ; la 1.0.1 y ajoute le texte agrandi (un correctif). Elle ne bouge pas pendant six mois ; seul un vrai défaut (illisible, contraste, droit d'une police) se répare avant.
 
 ---
 
@@ -74,7 +74,7 @@ Une icône nouvelle part d'un gabarit et se juge à côté des autres, avant d'e
 
 <p><img src="images/makacook-ecran-vide.jpg" alt="L'écran vide des fournées de MakaCook" width="240"></p>
 
-**Pour tout le monde.** Le texte a un contraste d'au moins 4,5 contre 1, et ce qu'on touche fait au moins 44 × 44 points, comme le recommande Apple.
+**Pour tout le monde.** Le texte a un contraste d'au moins 4,5 contre 1, ce qu'on touche fait au moins 44 × 44 points, et le texte suit la taille choisie dans le téléphone, jusqu'à au moins 200 %, sans être coupé. Comme le recommande Apple.
 
 ---
 
